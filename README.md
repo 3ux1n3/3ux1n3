@@ -2,6 +2,7 @@
 - 👀 I’m interested in Making Web Apps and Websites
 - 🌱 I’m currently learning Front end
 - 💞️ I’m looking to collaborate on MicroSaaS projects
+- 👷 I can build APIs and CLI tools
 - 📫 reach me @3ux1n3 on Twitter
 
 <!---
